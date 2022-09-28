@@ -32,3 +32,14 @@ Greatest of 3 num
 Palindrone string
 Pascal triangle
 Odd or even
+Mth max nth min
+Read chat until a *
+Read the number until-1
+Mirror
+Triangular array
+Online retailer
+Matches
+Number of factors for n
+Pgm to print pattern
+First n perfect num and first n factors
+
