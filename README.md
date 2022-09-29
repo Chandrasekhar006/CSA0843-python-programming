@@ -42,4 +42,13 @@ Matches
 Number of factors for n
 Pgm to print pattern
 First n perfect num and first n factors
-
+Simple interest
+Sum of the squares
+Max num of words
+Palindrome
+M to n by shipping k
+Leap years
+Number pattern 12345
+Adding two lists
+Matrix addition
+Combinations
