@@ -52,3 +52,13 @@ Number pattern 12345
 Adding two lists
 Matrix addition
 Combinations
+Alphanetical order
+Print num of vowels
+Square cube of given decimal
+Num of student user in the college
+Reverse a word using loop
+Pgm to print pattern
+Given list of numbers
+Mean median mode of the elements
+Print consonants and vowels
+Reverse a num using loop
