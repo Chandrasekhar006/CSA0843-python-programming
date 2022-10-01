@@ -62,3 +62,13 @@ Given list of numbers
 Mean median mode of the elements
 Print consonants and vowels
 Reverse a num using loop
+Composite nunbers
+Employee salary
+Last word
+Lch and gcd
+Frequency
+Arithmetic
+Robert
+Count prime and composite
+Vote eligibility
+Pattern
